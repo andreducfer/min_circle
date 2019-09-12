@@ -1,0 +1,5 @@
+Exact Algorithm
+DataSet Name: points
+Number of Points: 100
+Center of Circle: (418.74874301239817, 324.4049998438526)
+Radius of Circle: 196.3838644293202

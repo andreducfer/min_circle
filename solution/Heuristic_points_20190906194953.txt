@@ -1,0 +1,5 @@
+Heuristic Algorithm
+DataSet Name: points
+Number of Points: 100
+Center of Circle: (407.36031735768205, 349.6094980914972)
+Radius of Circle: 200.26323940076657
